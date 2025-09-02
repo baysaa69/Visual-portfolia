@@ -11,20 +11,11 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello everyone, my name is Baysaa. I’m looking forward to exploring effective visualization techniques for the data we work with in this class. In my free time, I enjoy reading biography books.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+When it comes to data visualization, I often found myself questioning how some charts could be so confusing. Honestly, I sometimes felt like I was the only one who didn’t fully understand them. But through the critiques in this class, I realized that others see the same issues I do, which shows it’s often about how the visuals are designed rather than the audience. Books have also been especially helpful for me in building a stronger understanding of the concepts, which really makes a difference.
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
 
