@@ -89,6 +89,15 @@ I agree for the people mentioning about colors and subtitles, even might be cons
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                
   vizElement.parentNode.insertBefore(scriptElement, vizElement);           
 </script>
+<!-- works on github.io -->
+<iframe 
+  src="https://public.tableau.com/views/Costofinsuranceineachstates/Sheet2?:showVizHome=no&:embed=true" 
+  width="100%" 
+  height="850" 
+  frameborder="0" 
+  scrolling="no">
+</iframe>
+
 
 
 LINK: https://public.tableau.com/views/Costofinsuranceineachstates/Sheet2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
