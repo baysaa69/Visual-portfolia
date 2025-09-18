@@ -38,8 +38,7 @@ The visualization was attractive but confusing. It drew attention because of its
 
 ## Step three: Sketch a solution
 First Draft
-
-<img width="2960" height="1566" alt="Screenshot 2025-09-18 at 5 53 05 PM" src="https://github.com/user-attachments/assets/d997bd13-59a5-4ed7-8764-b2ddb0b1d078" />
+<img width="2960" height="1566" alt="Screenshot 2025-09-18 at 5 53 05 PM" src="https://github.com/user-attachments/assets/ecdef0ba-2ce2-418f-82d1-6697fc25618e" />
 
 
 Here I tried to compare the insurance difference and max and min values in side by side. Maybe visually, it doesn't look great, but attempting to show simple relation meaning to the people.
