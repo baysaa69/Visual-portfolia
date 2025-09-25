@@ -6,7 +6,6 @@ Topic: Stress steals sleep in high-pressure jobs
 
 Sleep is critical to health, productivity, and well-being, but many high-pressure jobs make it difficult to get enough rest. Using the Lifestyle and Sleep Patterns dataset, I will explore how stress levels in demanding occupations (e.g., doctors, software engineers, and sales representatives) are linked to sleep duration and quality.My goal is to tell a story that goes beyond simple correlations: to show which jobs are most affected by stress-driven sleep loss, and to connect these findings to the real world challenges students and young professionals face as they prepare for demanding careers.
 
-
 1. Setup = Why sleep matters
 
 Start with a simple truth: “Sleep is one of the most important factors for our health, but it’s often the first thing we give up in demanding careers.”
