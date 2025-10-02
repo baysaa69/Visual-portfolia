@@ -87,7 +87,6 @@ Text here!
 |Takeaway|Wants advice on how to manage stress better|Wants comparison to other jobs|Highlight "the health cost of no sleep"|
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 Maybe because of initial sketches had too many errors, which makes sense. Also, In terms of make my own story, The story was too broad, very global demographic information, which is understandable, that peers asking more niche area that i could cover it. 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
