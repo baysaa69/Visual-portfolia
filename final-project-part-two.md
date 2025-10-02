@@ -44,6 +44,11 @@ Using last week’s sketches as a base, I developed a more concrete storyboard:
 
   Wireframe: Simple statement card, Sleep is not wasted time. It’s the foundation for performance.
 
+  <img width="2600" height="2400" alt="storyboard_wireframe_fixed3" src="https://github.com/user-attachments/assets/616f53f2-8f7b-4b89-bbd4-ab622e1d386c" />
+
+  These simple graphs are in my mind but it will change depending on the context because I want a bit visually appealing. However, it really depends on shortstory template that i will be choose in the persentation.
+
+
 # User research 
 ## Target audience
 
